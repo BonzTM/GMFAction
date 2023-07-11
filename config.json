@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "CLE", "Cleveland", "Ohio" ],
+    "Instances": [ "hachyderm.io", "mastodon.social", "mstdn.social", "mastodon.online", "fosstodon.org", "mastodon.world", "mas.to", "universeodon.com" ]
 }
